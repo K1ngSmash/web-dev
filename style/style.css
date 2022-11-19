@@ -1,17 +1,17 @@
 /*Шрифты*/
 @font-face {
   font-family: Gilroy-Bold;
-  src: url(/fonts/Gilroy-Bold.ttf);
+  src: url(../fonts/Gilroy-Bold.ttf);
 }
 
 @font-face {
   font-family: Gilroy-Medium;
-  src: url(/fonts/Gilroy-Medium.ttf);
+  src: url(../fonts/Gilroy-Medium.ttf);
 }
 
 @font-face {
   font-family: Gilroy-Semibold;
-  src: url(/fonts/Gilroy-Semibold.ttf);
+  src: url(../fonts/Gilroy-Semibold.ttf);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
@@ -429,7 +429,7 @@
   font-size: 16px;
   line-height: 16px;
   text-align: start;
-  list-style-image: url(/img/list.png);
+  list-style-image: url(../img/list.png);
   padding-left: 15px;
   margin-bottom: 15px;
 }
@@ -563,13 +563,13 @@
   background-size: 25px;
 }
 .fb {
-  background-image: url(/img/facebook.png);
+  background-image: url(../img/facebook.png);
 }
 .tw {
-  background-image: url(/img/twitter.png);
+  background-image: url(../img/twitter.png);
 }
 .in {
-  background-image: url(/img/in.png);
+  background-image: url(../img/in.png);
 }
 .input__title {
   font-family: Gilroy-SemiBold;
@@ -596,7 +596,7 @@
   width: 25px;
   height: 25px;
   border: none;
-  background-image: url(/img/linc.png);
+  background-image: url(../img/linc.png);
   background-repeat: no-repeat;
   background-size: 25px;
   cursor: pointer;
